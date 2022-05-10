@@ -8,9 +8,9 @@
 ## 画面イメージ
 
 - お問い合わせフォーム
-/public/img/contact-form_1.jpg
+![お問い合わせフォーム](/public/img/contact-form_1.jpg)
 - 管理画面
-/public/img/contact-form_2.jpg
+![管理画面](/public/img/contact-form_2.jpg)
 
 ## 使用技術
 
